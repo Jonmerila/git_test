@@ -1,2 +1,4 @@
 # git_test
-testing site for new Odin Project
+Hello!
+My first repo, made for The Odin Project
+Testing if this works
